@@ -1,0 +1,6 @@
+(.*),(.*)
+
+I am(nt|.*)\W.My favorite sandwich.is(.\w*)
+
+sandwich with(nt|.*)(for here|to go(?:nt|.*))
+
